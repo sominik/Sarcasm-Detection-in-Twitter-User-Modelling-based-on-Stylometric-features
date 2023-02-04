@@ -1,0 +1,5 @@
+./csv_files/*
+./fast_text
+./models
+main_balanced_pickle.p
+./venv
